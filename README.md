@@ -1,2 +1,2 @@
 # caixa-agua
-Sistema de monitoramento de caixa de água predial
+Monitoramento da quantidade de água de uma caixa água utilizando sensor ultrasonico
